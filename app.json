@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "PHONE-APP-SAMPLE1",
+    "slug": "PHONE-APP-SAMPLE1"
+  }
+}
